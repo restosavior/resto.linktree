@@ -36,7 +36,7 @@ section main img {
   width: 100px;
   border-radius: 50%;
   aspect-ratio: 1;
-  box-shadow: 0 0 5px 1px teal;
+  box-shadow: 0 0 5px 2px black;
 }
 
 section main h2 {
@@ -65,7 +65,7 @@ section main a:hover {
 }
 
 section main a i {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 section footer {
